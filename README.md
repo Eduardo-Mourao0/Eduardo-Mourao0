@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eduardo Mourão
 
-<!--
-**Eduardo-Mourao0/Eduardo-Mourao0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software (3º semestre)**  
+💻 Focado em **Desenvolvimento Backend**  
+🚀 Atualmente estudando **TypeScript, Node.js e Prisma**  
+🔎 Buscando minha **primeira oportunidade como desenvolvedor**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou estudando
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Mourao0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Mourao0&layout=compact&theme=tokyonight)
+
+---
+
+## 💡 Sobre mim
+
+- 💡 Gosto de resolver problemas com código
+- 📚 Sempre aprendendo algo novo sobre desenvolvimento
+- ⚙️ Atualmente criando **APIs com TypeScript e Prisma**
+- 🎯 Meu objetivo é me tornar um **Backend Developer**
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
