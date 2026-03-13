@@ -17,12 +17,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Mourao0&show_icons=true&theme=tokyonight)
-
----
-
 ## 💡 Sobre mim
 
 - 💡 Gosto de resolver problemas com código
