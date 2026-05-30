@@ -1,31 +1,51 @@
-# 👋 Olá, eu sou o Eduardo Mourão
+# Hello! 👋
+<img align="right" width="380" style="border:none;outline:none;" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-🎓 Estudante de **Engenharia de Software (3º semestre)**  
-💻 Focado em **Desenvolvimento Backend**  
-🚀 Atualmente estudando **TypeScript, Node.js e Prisma**  
-🔎 Buscando minha **primeira oportunidade como desenvolvedor**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mourao-/)
+
+## My Name is Eduardo
+
+`TypeScript` | `Express`| `NestJS` | `PostgreSQL` | `Prisma` | `Node.js` | `REST` | `Git`
+
+- 🎓 Software Engineering student — Universidade Católica de Brasília (UCB)
+- 📱 Atualmente estou desenvolvendo o **ProxAlert** — um aplicativo de alarme baseado em proximidade para dispositivos móveis.
+- 🔍 Estudando desenvolvimento Backend e Mobile para aprimorar minhas habilidades.
+- 🗄️ Interessado em arquitetura de sistemas e código limpo.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-## 💡 Sobre mim
+## 📊 GitHub Stats
 
-- 💡 Gosto de resolver problemas com código
-- 📚 Sempre aprendendo algo novo sobre desenvolvimento
-- ⚙️ Atualmente criando **APIs com TypeScript e Prisma**
-- 🎯 Meu objetivo é me tornar um **Backend Developer**
+<div align="center">
+
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo-mourao0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eduardo-mourao0&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+
+</div>
 
 ---
 
-## 📫 Contato
+## 🚀 Featured Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mourao-/)
+### [ProxAlert](https://github.com/SEU_USERNAME/proxalert)
+> Proximity-based alarm app — never miss your bus stop again.
+
+`React Native` `Expo` `NestJS` `PostgreSQL` `PostGIS` `Prisma` `FCM`
+
+- 📍 GPS alarm that triggers when you enter a defined radius
+- 👥 Third-party mode: get notified when someone is approaching you
+- 🔒 Temporary tracking links with auto-expiration (LGPD compliant)
