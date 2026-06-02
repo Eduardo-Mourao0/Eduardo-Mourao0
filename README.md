@@ -9,7 +9,7 @@
 
 - 🎓 Software Engineering student — Universidade Católica de Brasília (UCB)
 - 📱 Atualmente estou desenvolvendo o **ProxAlert** — um aplicativo de alarme baseado em proximidade para dispositivos móveis.
-- 🔍 Estudando desenvolvimento Backend e Mobile para aprimorar minhas habilidades.
+- 🔍 Estudando desenvolvimento Backend para aprimorar minhas habilidades.
 - 🗄️ Interessado em arquitetura de sistemas e código limpo.
 
 ---
