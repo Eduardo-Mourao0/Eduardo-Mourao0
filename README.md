@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Project
 
-### [ProxAlert](https://github.com/SEU_USERNAME/proxalert)
+### [ProxAlert](https://github.com/Eduardo-Mourao0/ProxAlert-Backend)
 > Proximity-based alarm app — never miss your bus stop again.
 
 `React Native` `Expo` `NestJS` `PostgreSQL` `PostGIS` `Prisma` `FCM`
